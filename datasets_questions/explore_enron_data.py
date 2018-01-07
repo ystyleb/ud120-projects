@@ -37,3 +37,7 @@ name = "Colwell Wesley"
 print enron_data[name.upper()]["from_this_person_to_poi"]
 name = "Skilling Jeffrey K"
 print enron_data[name.upper()]
+name = "Lay Kenneth l"
+print enron_data[name.upper()]
+name = "FASTOW ANDREW S"
+print enron_data[name.upper()]
